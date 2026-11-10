@@ -1,0 +1,6 @@
+{
+  "name": "SIG-FinInv: Prototipo Integral de Gestión de Inventarios y Finanzas",
+  "description": "Sistema integral de cálculo de actividades, inventarios, rotación, compras, costos, gastos, ingresos, punto de equilibrio y KPIs financieros y administrativos para cualquier sector con compatibilidad TIC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
